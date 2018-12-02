@@ -1,0 +1,23 @@
+{
+  "name": "interviewQuestions",
+  "version": "1.0.0",
+  "description": "A play to solve problems using data structures and algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlesGrogan/interviewQuestions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlesGrogan/interviewQuestions/issues"
+  },
+  "homepage": "https://github.com/CharlesGrogan/interviewQuestions#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
